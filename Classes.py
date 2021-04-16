@@ -1,4 +1,4 @@
-@client.command()
+@client.command(%embed)
 async def embedpages():
     page1 = discord.Embed (
         title = 'WARRIOR',
